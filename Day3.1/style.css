@@ -1,0 +1,84 @@
+body {
+    margin: 5px;
+}
+.line {
+    
+    width: 400px;
+    border: 1px solid;
+    border-width: 0.7px;
+    border-color: lightslategray;
+    margin-top: 0,1em;
+    margin-bottom: 1em;
+}
+ .article {
+     color: #515A5A;
+     margin-top: 3em;
+     margin-bottom: 2em;
+     }
+     .group {
+         width: 350px;
+         height: 25px;
+         border-radius: 0.4em;
+         border: solid #C8C8C8  1px;
+     }
+     .group:visited {
+         border-color: lightblue;
+
+     }
+     .symbol {
+         font-size: 0.6em;
+         text-align: center;
+         color: white;
+         border: none;
+         border-radius: 50%;      
+         background-color: black;
+         position: relative;
+         top: -5px;
+         padding: 0em 0.6em;
+         margin:0em 0.3em;
+     }
+     .color {
+         color: red;
+     }
+     .fotter {
+         height: 25px;
+         margin-bottom: 1em;
+         margin-right: 2em;
+         border: solid #C8C8C8  1px;
+         border-radius: 0.4em;
+     }
+     .fgrey {
+         height: 25px;
+         background-color: #D5D5D5;
+         margin-bottom: 1.5em;
+         margin-right: 2em;
+         border: solid #C8C8C8  1px;
+         border-radius: 0.4em;
+     }
+     .radio {
+         margin-top: 0.5em;
+     }
+     .bottom {
+         color: inherit;
+         margin-top: 2em;
+         font-size: 0.8em;
+     }
+     label {
+         font-size: 0.8em;
+     }
+     h5 {
+         margin-top: -1.5em;
+         margin-left: 10em;
+     }
+     form {
+         margin-left 5em;
+     }
+     a {
+         text-decoration: none;
+     }
+     p {
+         color: red;
+         margin-top: 0em;
+         margin-bottom: 1em;
+         font-size: 0.8em;
+     }
